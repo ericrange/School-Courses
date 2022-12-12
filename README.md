@@ -1,0 +1,3 @@
+Dieses Repo dient für den Datenaustausch im Rahmen des Förderprogramms "Stärken-Unterstützen-Abholen" an der Salzmannschule Schnepfenthal, wo ich den Schülern Grundlagen der IT-Security beibringe.
+
+Innerhalb dieses Projektes, wird es keinerlei Anleitungen zu Exploits oder zum Ausnutzen von bestehenden Systemen geben. Für das Thema IT-Security sind aber Grundkenntnisse in gewissen Bereichen notwendig, die ich hier beleuchte.
